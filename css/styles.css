@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+.container{
+height: 200px;
+background-color:lightblue;
+padding:5%;
+margin-top:15%;
+margin-left: 1em;
+margin-right: 1em;
+margin-bottom: 10px;
+border: solid  3px grey;
+border-radius: 3em;
+box-shadow: 15px 15px 15px black;
+
+}
+
+h1 {
+  pa
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  font-size: 25px;
+  text-align: center;
+}
